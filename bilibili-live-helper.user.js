@@ -5,6 +5,10 @@
 // @description  直播间：自动网页全屏 + 最高画质 + 清除小橙车弹窗；视频页：自动网页全屏 + 二倍速。支持站内切换直播间/切换视频。
 // @author       frognine
 // @license      MIT
+// @homepageURL  https://github.com/FROGNINE/dsh-userscripts
+// @supportURL   https://github.com/FROGNINE/dsh-userscripts/issues
+// @downloadURL  https://update.greasyfork.org/scripts/604933/script.user.js
+// @updateURL    https://update.greasyfork.org/scripts/604933/script.meta.js
 // @match        *://live.bilibili.com/*
 // @match        *://www.bilibili.com/video/*
 // @match        *://www.bilibili.com/list/*
